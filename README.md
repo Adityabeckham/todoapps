@@ -8,6 +8,12 @@ Todo Apps adalah aplikasi to-do list berbasis web yang sederhana namun interakti
 - Toast notification dengan [Toastify.js](https://apvarun.github.io/toastify-js/) untuk memberikan feedback secara real-time
 - Data tersimpan secara lokal melalui `localStorage`
 
+## PREVIEW
+![preview](https://github.com/user-attachments/assets/dcf15e4d-2d0c-4320-8dc7-400ac64886f5)
+
+
+## LINK:https://webapp-todoo-list.netlify.app/
+
 💡 Dibuat menggunakan:
 - HTML, CSS (custom & responsive)
 - JavaScript DOM API
